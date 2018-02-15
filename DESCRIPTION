@@ -1,12 +1,11 @@
 Package: test.package
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Illustrates errors tested to testing with testthat
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Emil O. W. Kirkegaard
+Maintainer: Emil O. W. Kirkegaard <emil@emilkirkegaard.dkt>
+Description: See https://stackoverflow.com/questions/34345945/test-that-with-match-fun-throws-unexpected-error-when-used-two-levels-deep
+License: CC0
 Encoding: UTF-8
 LazyData: true
 Depends: stringr
